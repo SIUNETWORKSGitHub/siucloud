@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"> <head>
+
+	<meta charset="utf-8">
+	<title>SiuCloud | Cloud Advisor & Analyst for SMBs</title>
+	<meta name="description" content="Expert cloud advisory and analysis services for small and medium-sized businesses. Optimize costs, enhance security, and scale effectively with AWS, Azure, and GCP.">
+	<meta name="author" content="Roberto Siu | SiuCloud.org">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   	<link rel="stylesheet" href="css/media-queries.css">
+ 	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<script src="js/modernizr.js"></script>
+   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   	<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+	<link rel="shortcut icon" href="favicon.png" >
+
+ 	<style>
+		img {
+			border-radius: 14px;
+		}
+		/* Changed p color to a more neutral tone for general content.
+		   You should define your color palette in your main CSS files. */
+		p {
+			color: #333; /* Dark grey for better readability */
+			font-size: 16px; /* Adjusted from 26px which is very large for body text */
+		}
+		/* Styles for the download button from your original code, might need adjustment */
+		.btn {
+			background-color: #555; /* A more professional grey */
+			border-radius: 50px;
+			border: none;
+			color: white;
+			padding: 12px 30px;
+			cursor: pointer;
+			font-size: 15px;
+			display: inline-block; /* To allow padding and margin */
+			text-decoration: none; /* Remove underline for links */
+		}
+		.btn:hover {
+			background-color: #333; /* Darker grey on hover */
+		}
+ 	</style>
+
+</head>
+
+<body>
+	<header id="home">
+
+		<nav id="nav-wrap">
+
+	 		<a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+			<a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+	 		<ul id="nav" class="nav">
+	 			<li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+	 			<li><a class="smoothscroll" href="#about">About Us</a></li>
+	 			<li><a class="smoothscroll" href="#services">Our Services</a></li>
+	 			<li><a class="smoothscroll" href="#casestudies">Case Studies</a></li>
+				<li><a class="smoothscroll" href="#expertise">Our Expertise</a></li>
+	 			<li><a class="smoothscroll" href="#consultation">Schedule Consultation</a></li>
+	 		</ul> </nav> <div class="row banner">
+	 		<div class="banner-text">
+	 			<h1 class="responsive-headline">Your Trusted Cloud Advisor & Analyst</h1>
+	 			<h3>Empowering **Small to Medium Businesses (SMBs)** to thrive in the cloud. We provide expert **cloud strategy, cost optimization, security analysis**, and **migration services** tailored to your unique business needs.</h3>
+
+	 			<ul class="social">
+	 				<li><a href="https://www.linkedin.com/in/siunetworks/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+	 				<li><a href="https://github.com/SIUNETWORKSGitHub" target="_blank"><i class="fa fa-github"></i></a></li>
+					<li><a href="https://siucloud.org" target="_blank"><i class="fa fa-external-link"></i> Our Blog</a></li>
+	 				<li><a href="#consultation" class="btn smoothscroll"><i class="fa fa-calendar"></i> Book a Free Consultation</a></li>
+	 			</ul>
+	 		</div>
+	 	</div>
+
+	 	<p class="scrolldown">
+	 		<a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+	 	</p>
+
+	</header> <hr>
+
+	<section id="about">
+
+	 	<div class="row">
+
+	 		<div class="three columns">
+	 			<img class="profile-pic" src="images/cloud_advisor_hero.png" alt="Cloud Advisor Image" />
+	 		</div>
+
+	 		<div class="nine columns main-col">
+
+	 			<h2>ABOUT SIUCLOUD</h2>
+
+	 			<p>At **SiuCloud.org**, we believe the cloud should be an accelerator, not a complexity, for small and medium-sized businesses. Founded by **Roberto Siu**, our mission is to demystify cloud technology, making it accessible, secure, and cost-effective for businesses like yours.</p>
+
+				<p>With extensive experience across **AWS, Azure, GCP, and VMware**, we act as your dedicated cloud partner. We don't just advise; we analyze your current infrastructure, identify opportunities for improvement, and implement solutions that drive efficiency and growth. Our focus areas include:
+				<ul>
+					<li>**Cloud Strategy & Roadmapping:** Guiding your journey from on-premise to cloud, or optimizing your existing cloud presence.</li>
+					<li>**Cost Optimization & FinOps:** Ensuring you get the most value from your cloud investment without overspending.</li>
+					<li>**Security & Compliance:** Protecting your data and operations in the cloud environment.</li>
+					<li>**Migration Planning & Execution:** Seamlessly moving your applications and data to the cloud.</li>
+					<li>**Performance & Scalability:** Designing solutions that grow with your business demands.</li>
+				</ul>
+				</p>
+
+	 			<p>Let's unlock the full potential of cloud computing for your business. Explore our services and schedule a free consultation to see how we can help you achieve your cloud goals.</p>
+
+	 		</div>
+
+		</div>
+		<p class="scrolldown">
+	 		<a class="smoothscroll" href="#services"><i class="icon-down-circle"></i></a>
+	 	</p>
+
+	</section> <hr>
+
+	<section id="services">
+
+	 	<div class="row services">
+
+	 		<div class="three columns header-col">
+	 			<h1><span>OUR SERVICES</span></h1>
+	 		</div>
+
+	 		<div class="nine columns main-col">
+	 			<div class="row item">
+	 				<div class="twelve columns">
+	 					<h4>Cloud Strategy & Advisory</h4>
+	 					<p>Develop a clear cloud roadmap aligned with your business objectives. We help you choose the right cloud provider (AWS, Azure, GCP) and services, ensuring your cloud journey is strategic and efficient.</p>
+	 				</div>
+	 			</div> <div class="row item">
+	 				<div class="twelve columns">
+	 					<h4>Cloud Cost Optimization & FinOps</h4>
+	 					<p>Minimize your cloud spending without compromising performance. We analyze your usage, identify inefficiencies, implement cost-saving strategies, and establish FinOps practices for ongoing financial control.</p>
+	 				</div>
+	 			</div> <div class="row item">
+	 				<div class="twelve columns">
+	 					<h4>Cloud Security & Compliance Analysis</h4>
+	 					<p>Protect your valuable data and applications. Our experts assess your cloud security posture, implement best practices, and ensure compliance with industry regulations relevant to your business.</p>
+	 				</div>
+	 			</div> <div class="row item">
+	 				<div class="twelve columns">
+	 					<h4>Cloud Migration & Modernization</h4>
+	 					<p>Seamlessly transition your existing infrastructure and applications to the cloud. We handle the entire migration process, from planning and assessment to execution and post-migration support, ensuring minimal disruption.</p>
+	 				</div>
+	 			</div> </div> </div> <p class="scrolldown">
+	 		<a class="smoothscroll" href="#casestudies"><i class="icon-down-circle"></i></a>
+	 	</p>
+
+	</section> <hr>
+
+	<section id="casestudies">
+
+	 	<div class="row casestudies">
+
+	 		<div class="three columns header-col">
+	 			<h1><span>CASE STUDIES</span></h1>
+	 		</div>
+
+	 		<div class="nine columns main-col">
+	 			<div class="row item">
+	 				<div class="twelve columns">
+	 					<h4>SMB Cloud Cost Reduction: [Client Name/Industry]</h4>
+	 					<p class="info">**Challenge:** A growing e-commerce business was experiencing spiraling AWS costs due to unoptimized resources and lack of visibility.</p>
+	 					<p>**Solution:** We conducted a thorough cost audit, implemented reserved instances, optimized S3 storage, and advised on serverless alternatives. This resulted in a **30% reduction in monthly cloud expenditure** within three months.</p>
+	 				</div>
+	 			</div> <div class="row item">
+	 				<div class="twelve columns">
+	 					<h4>Secure Cloud Migration for a Healthcare Startup</h4>
+	 					<p class="info">**Challenge:** A new healthcare startup needed to migrate its sensitive patient data to Azure while ensuring HIPAA compliance and robust security.</p>
+	 					<p>**Solution:** We designed and executed a secure Azure migration strategy, configuring Azure security centers, implementing robust access controls, and encrypting data at rest and in transit. The migration was completed on schedule, meeting all compliance requirements.</p>
+	 				</div>
+	 			</div> </div> </div> <p class="scrolldown">
+	 		<a class="smoothscroll" href="#expertise"><i class="icon-down-circle"></i></a>
+	 	</p>
+
+	</section> <hr>
+
+	<section id="expertise">
+
+		<div class="row Degree">
+			<div class="three columns header-col">
+				<h1><span>OUR EXPERTISE & BACKGROUND</span></h1>
+			</div>
+
+			<div class="nine columns main-col">
+				<div class="row item">
+					<div class="twelve columns">
+						<h4>Cybersecurity Bachelor of Science in Progress</h4>
+						<span class="info">Miami Dade College</span> <em class="date">September 2024 - Present</em></p>
+						<p>This program integrates the National Initiative for Cybersecurity Education framework and NSA guidelines, offering hands-on training with real attacks at the College’s state-of-the-art Cybersecurity Center, ensuring a deep understanding of modern cyber threats and defenses.</p>
+					</div>
+				</div> </div> </div> <div class="row work">
+			<div class="three columns header-col">
+				<h1><span>PROFESSIONAL JOURNEY</span></h1>
+			</div>
+
+			<div class="nine columns main-col">
+				<div class="row item">
+					<div class="twelve columns">
+						<h4>Elevance Health (Help Desk Analyst I)</h4>
+						<p class="info"><em class="date">September 2022 - Present</em></p>
+						<p>Nearly 3 years in enterprise IT, developing robust support skills and contributing to operational efficiency. Gained critical insights into IT best practices through mentorship from Sr. System Engineers and Level II/III partners. Key contributions include:</p>
+						<ul>
+							<li>Managed high-volume helpdesk tickets, ensuring timely resolution for enterprise users.</li>
+							<li>Proficient with Heat ticketing system for documenting IT support requests/resolutions.</li>
+							<li>Developed and deployed standardized new hire laptop images; executed large-scale enterprise computer rollouts.</li>
+							<li>Basic MDM with Ivanti Go: managed/troubleshoot corporate mobile devices.</li>
+							<li>Resolved LAN, WLAN, and basic VPN connectivity issues in a complex enterprise network.</li>
+							<li>Managed Active Directory accounts (password resets, software installation, printer/computer troubleshooting, GPO updates).</li>
+							<li>Maintained IT asset inventory and comprehensive documentation.</li>
+							<li>Collaborated in IT teams on projects, taking initiative on subtasks.</li>
+						</ul>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>Robert Half | Contract for Evox Technologies Corporation (Desktop Support Technician)</h4>
+						<p class="info"><em class="date">October 2021 - May 2022</em></p>
+						<p>Executed comprehensive IT infrastructure and security installations within the banking sector. Ensured operational readiness and strict adherence to security standards, including:</p>
+						<ul>
+							<li>Installed computer systems and peripherals across bank offices.</li>
+							<li>Configured multi-camera security surveillance systems, complying with financial industry security protocols.</li>
+							<li>Deployed and commissioned new servers and network racks for critical banking operations.</li>
+							<li>Performed meticulous installation and certification of structured low-voltage cabling (Cat6/6a Ethernet).</li>
+							<li>Interpreted complex technical blueprints and design drawings for precise execution.</li>
+						</ul>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>SiuCloud.org (Cloud & Virtualization Platform Management | Cloud Advisor)</h4>
+						<p class="info"><em class="date">February 2014 - September 2022</em></p>
+						<p>Managed and advised on cloud and virtualization platforms for various clients. Key responsibilities and achievements included:</p>
+						<ul>
+							<li>Deployed & managed Windows/Linux servers on AWS (EC2), Azure (VMs, AAD), GCP (Compute Engine), & VMware vSphere.</li>
+							<li>Engineered scalable cloud infrastructure: virtual networks, storage (AWS S3, Azure Blob, GCP Storage), & server configurations for cloud/hybrid solutions.</li>
+							<li>Leveraged MS Intune for endpoint management: device configuration, security policies, app deployment.</li>
+							<li>Installed/configured IT hardware (security cams, PCs, printers); secured file sharing (Azure Files, Google Drive) via Intune.</li>
+							<li>Interpreted technical designs for deploying Azure, AWS, GCP, & VMware solutions.</li>
+							<li>Installed/secured physical infrastructure (cables, hardware) for VMware & hybrid cloud.</li>
+							<li>Ensured a secure IT environment via best practices across Azure, AWS, GCP, VMware, Intune, & Google Workspace.</li>
+						</ul>
+					</div>
+				</div> </div> </div> <div class="row Degree">
+			<div class="three columns header-col">
+				<h1><span>PROFESSIONAL<br>CERTIFICATIONS</span></h1>
+			</div>
+
+			<div class="nine columns main-col">
+				<div class="row item">
+					<div class="twelve columns">
+						<h4>Microsoft Certified: Azure Fundamentals AZ900</h4>
+						<p class="info"><em class="date">June 2023</em></p>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>AWS Certified Cloud Practitioner</h4>
+						<p class="info"><em class="date">March 2022</em></p>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>Cisco Certified Network Associate Routing and Switching: Cisco ID CSCO12168839</h4>
+						<p class="info"><em class="date">July 2016</em></p>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>Microsoft Certified Professional</h4>
+						<p class="info"><em class="date">April 2012</em></p>
+					</div>
+				</div> <center>
+					<div data-iframe-width="140" data-iframe-height="120" data-share-badge-id="e4014412-a9cd-4532-8040-6fa42a5edede" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+					<div data-iframe-width="140" data-iframe-height="120" data-share-badge-id="1beca2cb-ffeb-426f-b4b8-4ef1c48b0b02" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+					<div data-iframe-width="140" data-iframe-height="120" data-share-badge-id="30b666a8-78af-4ffd-96b6-7575a50163b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+					<div data-iframe-width="140" data-iframe-height="120" data-share-badge-id="833dea05-8eed-4c7f-999e-6c05ef928f0d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+				</center>
+			</div> </div> <div class="row Degree">
+			<div class="three columns header-col">
+				<h1><span>COLLEGE<br>CERTIFICATIONS</span></h1>
+			</div>
+
+			<div class="nine columns main-col">
+				<div class="row item">
+					<div class="twelve columns">
+						<h4>Cybersecurity Analyst - College Credit Certificate</h4>
+						<p class="info">Miami Dade College</p> <em class="date">May 2025</em>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>Enterprise Cloud Computing - College Credit Certificate</h4>
+						<p class="info">Miami Dade College</p> <em class="date">May 2024</em>
+					</div>
+				</div> <div class="row item">
+					<div class="twelve columns">
+						<h4>Help Desk Support Technician - College Credit Certificate</h4>
+						<p class="info">Miami Dade College</p> <em class="date">May 2023</em>
+					</div>
+				</div> </div> </div> <p class="scrolldown">
+	 		<a class="smoothscroll" href="#consultation"><i class="icon-down-circle"></i></a>
+	 	</p>
+
+	</section> <hr>
+
+	<section id="consultation">
+	 	<div class="row">
+	 		<div class="three columns">
+	 			<img class="profile-pic" src="images/consultation_image.png" alt="Schedule a Consultation" />
+	 		</div>
+
+	 		<div class="nine columns main-col">
+				<br><br>
+	 			<h2>Ready to Optimize Your Cloud?</h2>
+	 			<p>Schedule a free consultation with our cloud experts. Let's discuss your business goals and how we can help you leverage the cloud effectively and securely.</p>
+
+				<div class="calendly-inline-widget" data-url="https://calendly.com/antonyroberth" style="min-width:320px;height:700px;"></div>
+				<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+				</div>
+	 	</div>
+	</section> <footer>
+	 	<div class="row">
+	 		<div class="twelve columns">
+	 			<ul class="social-links">
+	 				<li><a href="https://www.linkedin.com/in/siunetworks/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+	 				<li><a href="https://github.com/SIUNETWORKSGitHub" target="_blank"><i class="fa fa-github"></i></a></li>
+					<li><a href="https://siucloud.org" target="_blank"><i class="fa fa-external-link"></i> Our Blog</a></li>
+	 			</ul>
+	 			<ul class="copyright">
+	 				<li>&copy; Copyright 2025 SiuCloud.org</li>
+	 				<li>Design based on <a href="https://www.styleshout.com/free-templates/ceevee/">CeeVee by Styleshout</a>, modified by SiuCloud.org</li>
+	 			</ul>
+	 		</div>
+
+	 		<div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+			<img class="profile-pic" src="images/siucloudlogo.png" alt="SiuCloud Logo" />
+	 	</div>
+	</footer> <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+	<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+	<script src="js/jquery.flexslider.js"></script>
+	<script src="js/waypoints.js"></script>
+	<script src="js/jquery.fittext.js"></script>
+	<script src="js/magnific-popup.js"></script>
+	<script src="js/init.js"></script>
+
+</body>
+
+</html>
